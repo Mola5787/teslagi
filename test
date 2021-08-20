@@ -1,0 +1,76 @@
+{
+  "pc": "id.modtrukwahyuabadi",
+  "version_app": "1.0",
+  "link_new_app": "null",
+  "name_godev": "Star+Mod",
+  "interval_inter": 2,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter":  "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "applovin": [
+    {
+      "banner": "",
+      "inter": "",
+      "mrec": ""
+    }
+  ],
+  "list_mod": [
+    {
+      "id": "1",
+      "tittle": "Wahyu siji",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": ",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",     
+      "images": ""   
+    },
+	
+    {
+      "id": "2",
+      "tittle": "test ful",
+      "link_file": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_busidgayor": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_busidsegitiga": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_busidnoterpal": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_busidcincing": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi", 
+     
+      
+      "link_liverykotak": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_liverygayor": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_liverysegitiga": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_liverynoterpal": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_liverycincing": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",     
+      "images": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi"      
+    },
+	
+    {
+      "id": "3",
+      "tittle": "test 3",
+      "link_file": "",
+      "link_busidgayor": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": ",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": ",
+      "link_liverygayor": "https://raw.githubusercontent.com/Mola5787/wahyuabadi7clip/main/idwahyuabadi",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": ""      
+    }
+  ]
+}
